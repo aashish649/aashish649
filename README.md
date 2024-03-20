@@ -1,12 +1,14 @@
 <h1 align="center">नमस्ते (Namaste), I am Aashish Anand</h1>
-<h3 align="center">Passionate self-taught MERN stack web developer from India</h3>
+# 💫About Me:
 
-<p align="center">
+Hi i am Aashish Anand, equipped with a Master's degree in Mathematics from National Institute of technology,Patna. My expertise lies in the Web Development Specially in MERN Stack , demonstrating a strong analytical mindset and a knack for problem-solving. Proficient in JavaScript, React, Node.js, C, and C++, I specialize in developing web applications and solving algorithmic challenges. Currently, I am actively seeking new and exciting opportunities to contribute and grow within the tech industry. I am also open to potential collaborations that can further enhance my skills and knowledge.
+# ☎️ Connect with me:
+<p align="">
   <a href="mailto:aashishanand649@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/aashish-anand-07934822a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<div align="center">
+<div align="left">
   <strong>🌱 Currently learning:</strong> Next.js
   <br>
   <strong>👯 Looking to collaborate on:</strong> MERN Stack Projects
