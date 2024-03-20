@@ -19,12 +19,13 @@ Hi i am Aashish Anand, equipped with a Master's degree in Mathematics from Natio
 
 <br>
 
-###
+# 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashish649&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aashish649&theme=dark)
+[](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aashish649&theme=dark)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashish649&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashish649&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
+
 
 
 <br>
