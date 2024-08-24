@@ -57,6 +57,8 @@ Hi i am Aashish Anand, equipped with a Master's degree in Mathematics from Natio
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI"/>
+
 </p>
 
 <h4 align="left">Backend:</h4>
@@ -70,6 +72,28 @@ Hi i am Aashish Anand, equipped with a Master's degree in Mathematics from Natio
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
+
+<h4 align="left">Tools & Platforms</h4>
+<p align="left">
+
+
+- <img src="https://img.shields.io/badge/Stackblitz-1389FD.svg?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Stackblitz"/>
+- <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+- <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+- <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+- <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+- <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+- <img src="https://img.shields.io/badge/MongoDB%20Compass-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass"/>
+- <img src="https://img.shields.io/badge/ChatGPT-008080.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+- <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+- <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+- <img src="https://img.shields.io/badge/Socket.IO-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+
+
+
+</p>
+
+
 
 
 </div>
