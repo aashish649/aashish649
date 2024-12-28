@@ -7,6 +7,8 @@ Hi i am Aashish Anand, equipped with a Master's degree in Mathematics from Natio
 <p align="">
   <a href="mailto:aashishanand649@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/aashish-anand-07934822a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/aashishanand75/"><img src="https://img.shields.io/badge/-aashishanand75-pink?style=flat&logo=leetcode&logoColor=black"></a>
+  
 </p>
 
 <div align="left">
